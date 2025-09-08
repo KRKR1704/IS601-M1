@@ -15,3 +15,4 @@ GIT Commands
 2. git add (Moves changes from the working directory to the staging area)
 3. git branch (Shows all local branches)
 4. git merge (command used to combine changes from one branch into another)
+5. git push (Sends your local branch commits to the corresponding branch on the remote repository)
