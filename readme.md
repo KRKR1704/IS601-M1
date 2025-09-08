@@ -14,3 +14,4 @@ GIT Commands
 1. git status (shows the current state of your working directory and staging area)
 2. git add (Moves changes from the working directory to the staging area)
 3. git branch (Shows all local branches)
+4. git merge (command used to combine changes from one branch into another)
