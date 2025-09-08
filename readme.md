@@ -9,3 +9,6 @@ Linux Commands
 7. mv (usage-command used to move files or directories)
 8. cp (usage-command used to copy files or directory from one place to another)
 9. cat (usage-command used to concatenate file contents)
+
+GIT Commands
+1. git status (shows the current state of your working directory and staging area)
