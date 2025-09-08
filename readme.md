@@ -5,3 +5,4 @@ Linux Commands
 3. ls -l (usage-command used to list files and directories in a format where detailed information can be seen)
 4. chmod (usage-command used to change the files security permissions)
 5. cd (usage-command used to copy files or directory from one place to another)
+6. kill (usage-command used to terminate a process)
