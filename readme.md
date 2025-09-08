@@ -8,3 +8,4 @@ Linux Commands
 6. kill (usage-command used to terminate a process)
 7. mv (usage-command used to move files or directories)
 8. cp (usage-command used to copy files or directory from one place to another)
+9. cat (usage-command used to concatenate file contents)
