@@ -16,3 +16,4 @@ GIT Commands
 3. git branch (Shows all local branches)
 4. git merge (command used to combine changes from one branch into another)
 5. git push (Sends your local branch commits to the corresponding branch on the remote repository)
+6. git pull (command is used to fetch and download content from a remote repository and immediately update the local repository to match that content)
