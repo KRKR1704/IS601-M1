@@ -6,3 +6,4 @@ Linux Commands
 4. chmod (usage-command used to change the files security permissions)
 5. cd (usage-command used to copy files or directory from one place to another)
 6. kill (usage-command used to terminate a process)
+7. mv (usage-command used to move files or directories)
